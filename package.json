@@ -1,0 +1,33 @@
+{
+  "name": "phonebook",
+  "version": "1.0.0",
+  "description": "react & express fullstack development example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lT1anRu161/phonebook.git"
+  },
+  "keywords": [
+    "react",
+    "express",
+    "fullstack"
+  ],
+  "author": "lT1anRu161",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lT1anRu161/phonebook/issues"
+  },
+  "homepage": "https://github.com/lT1anRu161/phonebook#readme",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
